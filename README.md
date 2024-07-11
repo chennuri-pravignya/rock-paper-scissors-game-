@@ -1,3 +1,2 @@
 # rock-paper-scissors-game-
-This a mini project which is developed from html css and js
-used css and js in html code itself
+This is a small project made with HTML, CSS, and JavaScript that uses those elements directly in the HTML code.
